@@ -26,7 +26,7 @@ Link: https://app.curvance.com/leaderboard/referrals?referral=creptomining
 
 • Scroll down 
 
-• Enter my Code: 'creptomining'
+• Enter my Code: creptomining
 
 • Click Redeem 
 
