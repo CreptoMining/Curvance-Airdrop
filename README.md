@@ -3,7 +3,9 @@ Step by step guide to farm potential curvance airdrop for free!
 
 # About
 Curvance is a decentralized stablecoin lending protocol with an initial focus on LPs from the Curve, Convex, Aura, and Frax ecosystems.
+
 They've Raised $3.6M From Sandeep Nailwal, Wormhole, Offchain Labs, Frax and others.
+
 As per their Tokenomics, 4% of $CVE tokens are allocated for Incentivized Testnet.
 
 # Faucet
@@ -13,7 +15,8 @@ Arbitrum Sepolia: https://alchemy.com/faucets/arbitrum-sepolia (Need 0.001 eth o
 
 Berachain: http://bartio.faucet.berachain.com  (Need 0.001 Eth on mainnet to mint this faucet)
 
-• Enter Your Metamask Address 
+• Enter Your Metamask Address
+
 • Request Testnet Tokens
 
 # Mint In App Faucet Tokens
