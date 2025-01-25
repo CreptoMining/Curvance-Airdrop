@@ -20,13 +20,13 @@ Berachain: http://bartio.faucet.berachain.com  (Need 0.001 Eth on mainnet to min
 • Request Testnet Tokens
 
 # Mint In App Faucet Tokens
-Link: https://app.curvance.com/leaderboard/referrals?referral=farea 
+Link: https://app.curvance.com/leaderboard/referrals?referral=creptomining
 
 • Connect Your Metamask 
 
 • Scroll down 
 
-• Enter my Code: farea
+• Enter my Code: 'creptomining'
 
 • Click Redeem 
 
