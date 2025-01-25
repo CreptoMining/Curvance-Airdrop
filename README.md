@@ -23,35 +23,51 @@ Berachain: http://bartio.faucet.berachain.com  (Need 0.001 Eth on mainnet to min
 Link: https://app.curvance.com/leaderboard/referrals?referral=farea 
 
 • Connect Your Metamask 
+
 • Scroll down 
+
 • Enter my Code: farea
+
 • Click Redeem 
+
 • Click on "Faucet" Button 
+
 • Mint All Tokens
 
 # Deposit and Withdraw
 • Scroll down or click on tasks in side bar & Click on "Deposit"
+
 • Deposit any Tokens, preferrably WBTC
+
 • Withdraw some of your tokens after the cooldown ends
 
 # Lend
 • Click on "Lend" from the task bar
+
 • Deposit any Tokens
 
 # Borrow and repay
 • Click on "Borrow"
+
 • Borrow any tokens & Repay a portion of it afterwards
 
 # Lock and Unlock CVE
 • Go to the "Manage Locks" tab
+
 • Lock your CVE Tokens
+
 • Click on the "Manage" Button
+
 • Pass on "Unlock" Button
+
 • Unlock your CVE Tokens
 
 # Arbitrum Sepolia, Berachain Tasks & Invite 
 
 • Complete Tasks On Arbitrum Sepolia & Berachain ( Drawback for berachain tasks is that you need 0.001 Mainnet eth to get faucet for berachain)
+
 • Go to the "Referral" tab
+
 • Generate your code
+
 • Copy Your Referral Link and share it with your friends & family
