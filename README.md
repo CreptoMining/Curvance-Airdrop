@@ -8,12 +8,19 @@ They've Raised $3.6M From Sandeep Nailwal, Wormhole, Offchain Labs, Frax and oth
 
 As per their Tokenomics, 4% of $CVE tokens are allocated for Incentivized Testnet.
 
+# Full Vedio Guide
+https://youtu.be/1vUrJC38bO8
+
 # Faucet
 Sepolia: https://cloud.google.com/application/web3/faucet/ethereum/sepolia 
 
 Arbitrum Sepolia: https://alchemy.com/faucets/arbitrum-sepolia (Need 0.001 eth on arbitrum one to get this faucet)
 
-Berachain: http://bartio.faucet.berachain.com  (Need 0.001 Eth on mainnet to mint this faucet)
+Alternate Free method of getting Arb sepolia faucet is to bridge from sepolia to Arb sepolia here: https://bridge.arbitrum.io/?destinationChain=arbitrum-sepolia&sourceChain=sepolia
+
+Berachain main faucet: http://bartio.faucet.berachain.com  (Need 0.001 Eth on mainnet to mint this faucet)
+
+Berachain Free Faucet: https://faucet.trade/berachain-testnet-bera-faucet (Just complete the given tasks and get free BERA faucet)
 
 • Enter Your Metamask Address
 
